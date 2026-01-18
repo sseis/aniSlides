@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AniSlides/static/css/main.f855e6bc.css",
+    "main.js": "/AniSlides/static/js/main.36ea7ef8.js",
+    "static/js/453.b7efb114.chunk.js": "/AniSlides/static/js/453.b7efb114.chunk.js",
+    "index.html": "/AniSlides/index.html",
+    "main.f855e6bc.css.map": "/AniSlides/static/css/main.f855e6bc.css.map",
+    "main.36ea7ef8.js.map": "/AniSlides/static/js/main.36ea7ef8.js.map",
+    "453.b7efb114.chunk.js.map": "/AniSlides/static/js/453.b7efb114.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.36ea7ef8.js"
+  ]
+}
